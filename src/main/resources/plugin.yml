@@ -1,0 +1,5 @@
+name: Vouchers
+version: '${project.version}'
+main: lol.vifez.vouchers.VouchersPlugin
+authors: [vifez]
+description: Simple vouchers plugin
